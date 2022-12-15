@@ -1,2 +1,2 @@
-# Trilha JS Developer - Pokedex
-evolundo com o pokedex
+# Trilha JS Developer - Pokédex
+Evoluindo com a Pokédex
